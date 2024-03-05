@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👋 Hey! I'm Pradeep Varma, a final-year Computer Science & AIML student 🎓. <br>Proficient in Python, SQL, HTML, CSS, and JavaScript 💻. <br>Built a Movie Recommendation System using ML 🎬. <br>Web Developer with Git & GitHub expertise. <br>Eager to contribute my skills to impactful software engineering and data analysis projects.<br>Excelled to develop  Store Analytics (Excel & Power BI) and HR Analytics (Power BI) projects 📊 <br>Let's connect! 🚀<br>#SoftwareEngineer #DataAnalyst #WebDeveloper #Python #SQL <br>#HTML #CSS #JavaScript #Git #GitHub #MachineLearning #ComputerScience<br> #TechEnthusiast #Excel #PowerBI
+👋 Hey! I'm Pradeep Varma, a final-year Computer Science & AIML student 🎓. <br>Proficient in Python, SQL, HTML, CSS, and JavaScript 💻, power Bi, Data Analytics. <br>Built a Movie Recommendation System using ML 🎬. <br>Web Developer with Git & GitHub expertise. <br>Eager to contribute my skills to impactful software engineering and data analysis projects.<br>Excelled to develop  Store Analytics (Excel & Power BI) and HR Analytics (Power BI) projects 📊 <br>Let's connect! 🚀<br>#SoftwareEngineer #DataAnalyst #WebDeveloper #Python #SQL <br>#HTML #CSS #JavaScript #Git #GitHub #MachineLearning #ComputerScience<br> #TechEnthusiast #Excel #PowerBI
 
 
 ## 🌐 Socials:
