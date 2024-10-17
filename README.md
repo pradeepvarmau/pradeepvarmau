@@ -1,6 +1,27 @@
 ### Hi there 👋
 # 💫 About Me:
-👋 Hey! I'm Pradeep Varma, I'm  Computer Science & AIML Graduate 🎓. <br>Proficient in Python, SQL,POwerBI, HTML, CSS, and JavaScript 💻,Data Science, Data analytics,Machine Learning. <br>Built a crop Recommendation System using ML 🎬, Toy Store KPI analysis using excel and powerBI. <br>Web Developer with Git & GitHub expertise. <br>Eager to contribute my skills to impactful software engineering and data analysis projects.<br>Excelled to develop  Store Analytics (ADV Excel with AI & Power BI) and HR Analytics (Power BI) projects 📊 <br>Let's connect! 🚀<br>#SoftwareEngineer #DataAnalyst #WebDeveloper #Python #SQL <br>#HTML #CSS #JavaScript #Git #GitHub #MachineLearning #DataScience #ComputerScience<br> #TechEnthusiast #Excel #PowerBI
+Here's a GitHub "About" section tailored for you:
+
+---
+
+👋 Hi, I'm Pradeep Varma, a Computer Science graduate with a passion for AI and Machine Learning! 🎓 
+
+🔧 **Skills:**  
+- **Programming Languages:** Python, SQL, JavaScript, HTML, CSS , JS, Flask
+- **Data Science & Analytics:** Proficient in Data Science, Data Analytics, Machine Learning and NLP 
+- **Tools:** Power BI, Excel, Git & GitHub , Azure
+
+🚀 **Projects:**  
+- **Crop Recommendation System:** Developed an ML-based system to assist farmers in crop selection.  
+- **Toy Store KPI Analysis:** Conducted in-depth analysis using Excel and Power BI for data-driven decision-making.  
+- **Store & HR Analytics:** Designed projects leveraging Advanced Excel, AI, and Power BI for insightful business metrics.
+- **Financial News Sentiment Analysis:** Utilized NLP techniques to analyze sentiment in financial news articles for better investment insights.
+- **Mobile Recommendation System:** Created a machine learning model to recommend mobile devices based on user preferences and specifications.
+
+🌟 I’m eager to contribute my skills to impactful software engineering and data analysis projects. Let’s connect and collaborate!
+
+#SoftwareEngineer #DataAnalyst #WebDeveloper #MachineLearning #NLP #TechEnthusiast
+
 
 
 ## 🌐 Socials:
